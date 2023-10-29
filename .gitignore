@@ -1,0 +1,4 @@
+*.dSYM/
+*_debug
+.vscode
+longpal
